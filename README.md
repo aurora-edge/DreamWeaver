@@ -1,2 +1,2 @@
 # DreamWeaver
-Dream Record and Timeline Sandbox System——ZhiMeng
+Dream Record and Timeline Sandbox System
